@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Airflow logs
+airflow/logs/
+
+# Environment variables
+.env
